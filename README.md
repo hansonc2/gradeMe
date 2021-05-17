@@ -1,2 +1,4 @@
-# gradeMe
-script that pushes repo and runs autograder
+# gradeMe 📝
+A script that pushes a github repo and runs an autograder on GradeScope
+
+
