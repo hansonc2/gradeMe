@@ -5,6 +5,7 @@ A Python script that pushes a github repo and runs an autograder on GradeScope.
 Run the following commands to install requirements (*Selenium*) and set execution path
 
 ```
+cd gradeMe/
 chmod +x ./install.sh 
 sudo ./install.sh
 ```
